@@ -40,6 +40,15 @@ body{
     padding-top: 20px;
 }
 
+button a{
+    text-decoration: none;
+    color: white;
+}
+
+button a:hover{
+    color: wheat;
+}
+
 h2{
     font-family: 'Tahoma', Geneva, Verdana, sans-serif;
 }
